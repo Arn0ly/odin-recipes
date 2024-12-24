@@ -1,1 +1,1 @@
-# odin-recipes
+Je n'ai aucune idée de ce que l'on va faire dans ce projet, à part le titre qui indique que ce sera des recettes. Dieu seul sait quels sont les talents que j'aurais développés à la fin.
